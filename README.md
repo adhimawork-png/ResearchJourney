@@ -8,5 +8,8 @@
 
 ## Professors – Geomatics @ TU Delft
 - [Liang Nan](https://github.com/LiangliangNan)
-- [Hugo Ledoux](https://github.com/hugoledoux) 
-
+- [Hugo Ledoux](https://github.com/hugoledoux)
+- 
+## Future Insight
+[Process seafloor data in CesiumJS](https://cesium.com/blog/2025/10/07/terradepth-processes-seafloor-data-at-the-edge/
+)
