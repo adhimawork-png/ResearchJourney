@@ -10,6 +10,10 @@
 - [Liang Nan](https://github.com/LiangliangNan)
 - [Hugo Ledoux](https://github.com/hugoledoux)
 
+## SCHOLARSHIP TU DELFT
+https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships
+
+
 ## Future Insight
 - [Process seafloor data in CesiumJS](https://cesium.com/blog/2025/10/07/terradepth-processes-seafloor-data-at-the-edge/
 )
