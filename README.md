@@ -13,3 +13,20 @@
 ## Future Insight
 - [Process seafloor data in CesiumJS](https://cesium.com/blog/2025/10/07/terradepth-processes-seafloor-data-at-the-edge/
 )
+
+## ERASMUS
+Geo-Information Science and Earth Observation for Environmental Modelling and Management
+GEM - Project overview
+https://erasmus-plus.ec.europa.eu/projects/search/details/101240661 
+
+Copernicus Master in Digital Earth
+CDE - project overview
+https://erasmus-plus.ec.europa.eu/projects/search/details/101128006
+
+Cartography - Mapping for a sustainable world
+CARTO - project overview
+https://erasmus-plus.ec.europa.eu/projects/search/details/101050459
+
+Master of Science in Geospatial Technologies
+GeoTech - project overview
+https://erasmus-plus.ec.europa.eu/projects/search/details/101049796
