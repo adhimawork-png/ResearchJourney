@@ -13,7 +13,8 @@
 ## SCHOLARSHIP TU DELFT
 https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships
 
-
+## PRESENTATION DECK 
+- [Hugo L ](https://speakerdeck.com/hugoledoux )
 ## Future Insight
 - [Process seafloor data in CesiumJS](https://cesium.com/blog/2025/10/07/terradepth-processes-seafloor-data-at-the-edge/
 )
