@@ -11,7 +11,11 @@
 - [Hugo Ledoux](https://github.com/hugoledoux)
 
 ## Topic for Essay
-https://3d.bk.tudelft.nl/projects/multiroofs/ Multi functional roofs
+- https://3d.bk.tudelft.nl/projects/multiroofs/ Multi functional roofs
+-Yanning Qiu has recently joined our research group as a Postdoctoral Researcher. She will be working on the development of an AI-powered smart sensing and monitoring system to better understand the dynamics of urban waste in Amsterdam, as part of the Schone Binnenstad project funded by the AMS Institute.
+
+Before joining our group, Yanning completed her PhD and a postdoctoral position at Wageningen University & Research. Her PhD research combined field monitoring, remote sensing, and mathematical modelling to evaluate the long-term ecological outcomes of dryland restoration projects from a resilience perspective. During her postdoctoral research, she applied AI-assisted literature analysis and statistical modelling to quantify and characterize micro- and nanoplastics (MNPs) in both the environment and the human body, with the aim of supporting microplastic health risk assessment.
+
 ## SCHOLARSHIP TU DELFT
 https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships
 
