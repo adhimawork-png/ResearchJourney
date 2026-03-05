@@ -10,6 +10,8 @@
 - [Liang Nan](https://github.com/LiangliangNan)
 - [Hugo Ledoux](https://github.com/hugoledoux)
 
+## Topic for Essay
+https://3d.bk.tudelft.nl/projects/multiroofs/ Multi functional roofs
 ## SCHOLARSHIP TU DELFT
 https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships
 
