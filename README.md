@@ -10,6 +10,9 @@
 - [Liang Nan](https://github.com/LiangliangNan)
 - [Hugo Ledoux](https://github.com/hugoledoux)
 
+## Courses
+https://3d.bk.tudelft.nl/courses/geo1004/
+
 ## Topic for Essay
 - https://3d.bk.tudelft.nl/projects/multiroofs/ Multi functional roofs
 - https://repository.tudelft.nl/record/uuid:61679ea8-1ee3-455f-9d00-774dbd9a052d Urban Energy Application
