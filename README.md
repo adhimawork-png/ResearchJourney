@@ -12,6 +12,7 @@
 
 ## Courses
 https://3d.bk.tudelft.nl/courses/geo1004/
+https://tudelft3d.github.io/terrainbook/videos/ (geo1015 TU Delft)
 
 ## Topic for Essay
 - https://3d.bk.tudelft.nl/projects/multiroofs/ Multi functional roofs
